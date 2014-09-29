@@ -1,5 +1,8 @@
 # BEAN Stack
 
+### Current Version
+v0.1.1
+
 This is code for the start of a BEAN stack project. What is a BEAN stack you ask. Well it is Bootstrap, Express, Angular, and Node. At the basic level this gives you a simple Bootstrap and Angular set up with a simple Express server.
 
 Out of the box you have livereload, JS uglify, and SASS compiling. The JS files and SASS files are watched and ready to be processed and reloaded as you develop.
@@ -19,10 +22,10 @@ The Route Bean is the Base Bean with small tweaks. It is set up to work as a sin
 ## Getting started
 Your will want to be sure to have a few things installed first:
 
-* (Node.JS)[http://nodejs.org/] version 0.10 and up
-* (npm)[http://npmjs.org], which if you have Node you should have npm.
-* (Grunt CLI)[http://gruntjs.com/getting-started]
-* (Bower)[http://bower.io/#install-bower]
+* [Node.JS](http://nodejs.org/) version 0.10 and up
+* [npm](http://npmjs.org), which if you have Node you should have npm.
+* [Grunt CLI](http://gruntjs.com/getting-started)
+* [Bower](http://bower.io/#install-bower)
 
 ### Getting Project
 Clone the project onto your local machine, or download to your desktop. You can then use these templates in different project by copying the exiting start point code into your project directory. 
@@ -60,8 +63,6 @@ This is where you write your JS and SASS. Remember the project is on livereload 
 
 Again please let me know how to improve this project, but just remember we are going toward simplictiy for solid start point in a project. We don't want to overload a developer with tons of code and complex systems, so they can still have the freedom to customize freely with little to none breakage. Thanks!
 
-## Version
-9/28/14 - v0.1.0
 
 ## License
 
