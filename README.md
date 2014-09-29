@@ -1,8 +1,5 @@
 # BEAN Stack
 
-### Current Version
-v0.1.1
-
 This is code for the start of a BEAN stack project. What is a BEAN stack you ask. Well it is Bootstrap, Express, Angular, and Node. At the basic level this gives you a simple Bootstrap and Angular set up with a simple Express server.
 
 Out of the box you have livereload, JS uglify, and SASS compiling. The JS files and SASS files are watched and ready to be processed and reloaded as you develop.
@@ -63,6 +60,8 @@ This is where you write your JS and SASS. Remember the project is on livereload 
 
 Again please let me know how to improve this project, but just remember we are going toward simplictiy for solid start point in a project. We don't want to overload a developer with tons of code and complex systems, so they can still have the freedom to customize freely with little to none breakage. Thanks!
 
+## Current Version
+v0.1.1
 
 ## License
 
